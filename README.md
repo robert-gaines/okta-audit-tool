@@ -1,17 +1,17 @@
 # okta-audit-tool
-A Python utlity for extracting structured data from Okta
+A Python utlity for extracting structured data from Okta <br>
 
-Requires:
--> An Okta Administrator API Key
--> Domain information: <domain>.okta.com
+Requires:                                                <br>
+-> An Okta Administrator API Key                         <br>
+-> Domain information: <domain>.okta.com                 <br>
 
-Generates:
--> User inventory <br>
--> Group inventory <br>
--> Application Inventory
--> Group Members Inventory
--> User Application Mapping Inventory
--> Group Application Mapping Inventory
+Generates:                                               <br>
+-> User inventory                                        <br>
+-> Group inventory                                       <br>
+-> Application Inventory                                 <br>
+-> Group Members Inventory                               <br>
+-> User Application Mapping Inventory                    <br>
+-> Group Application Mapping Inventory                   <br>
 
 ![image](https://user-images.githubusercontent.com/24815431/229294681-15b2f9d4-0ffb-4e1a-bc84-bbd5bbd84c01.png)
 
