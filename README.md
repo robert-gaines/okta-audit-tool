@@ -4,6 +4,7 @@ A Python utlity for extracting structured data from Okta <br>
 Requires:                                                <br>
 -> An Okta Administrator API Key                         <br>
 -> Domain information: <b>your-domain</b>.okta.com       <br>
+   Note: 'okta.com' is appended by default               <br>
 
 Generates:                                               <br>
 -> User inventory                                        <br>
