@@ -6,8 +6,8 @@ Requires:
 -> Domain information: <domain>.okta.com
 
 Generates:
--> User inventory `n
--> Group inventory `n
+-> User inventory <br>
+-> Group inventory <br>
 -> Application Inventory
 -> Group Members Inventory
 -> User Application Mapping Inventory
